@@ -1,0 +1,14 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```
+
+## R Markdown
+
+
+
+## This is a markdown file
+
